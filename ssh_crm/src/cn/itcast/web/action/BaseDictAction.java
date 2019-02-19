@@ -11,7 +11,7 @@ import cn.itcast.domain.BaseDict;
 import cn.itcast.service.BaseDictService;
 import net.sf.json.JSON;
 import net.sf.json.JSONArray;
-
+//ddd
 public class BaseDictAction extends ActionSupport{
 	private String dict_type_code;
 	private BaseDictService baseDictService;
